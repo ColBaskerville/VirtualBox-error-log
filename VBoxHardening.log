@@ -1,0 +1,168 @@
+2728.267c: Log file opened: 5.2.22r126460 g_hStartupLog=0000000000000014 g_uNtVerCombined=0x611db110
+2728.267c: \SystemRoot\System32\ntdll.dll:
+2728.267c:     CreationTime:    2019-01-09T21:39:16.278615600Z
+2728.267c:     LastWriteTime:   2018-12-28T20:01:05.822959200Z
+2728.267c:     ChangeTime:      2019-01-10T23:34:38.742865800Z
+2728.267c:     FileAttributes:  0x20
+2728.267c:     Size:            0x196568
+2728.267c:     NT Headers:      0xe0
+2728.267c:     Timestamp:       0x5c268115
+2728.267c:     Machine:         0x8664 - amd64
+2728.267c:     Timestamp:       0x5c268115
+2728.267c:     Image Version:   6.1
+2728.267c:     SizeOfImage:     0x19f000 (1699840)
+2728.267c:     Resource Dir:    0x142000 LB 0x5a038
+2728.267c:     [Version info resource found at 0xd8! (ID/Name: 0x1; SubID/SubName: 0x409)]
+2728.267c:     [Raw version resource data: 0x1420f0 LB 0x38c, codepage 0x0 (reserved 0x0)]
+2728.267c:     ProductName:     Microsoft® Windows® Operating System
+2728.267c:     ProductVersion:  6.1.7601.24335
+2728.267c:     FileVersion:     6.1.7601.24335 (win7sp1_ldr_escrow.181228-0954)
+2728.267c:     FileDescription: NT Layer DLL
+2728.267c: \SystemRoot\System32\kernel32.dll:
+2728.267c:     CreationTime:    2019-01-09T21:39:10.555328100Z
+2728.267c:     LastWriteTime:   2018-12-28T19:59:40.818000000Z
+2728.267c:     ChangeTime:      2019-01-10T23:35:00.863704400Z
+2728.267c:     FileAttributes:  0x20
+2728.267c:     Size:            0x11c000
+2728.267c:     NT Headers:      0xe0
+2728.267c:     Timestamp:       0x5c268156
+2728.267c:     Machine:         0x8664 - amd64
+2728.267c:     Timestamp:       0x5c268156
+2728.267c:     Image Version:   6.1
+2728.267c:     SizeOfImage:     0x11f000 (1175552)
+2728.267c:     Resource Dir:    0x116000 LB 0x530
+2728.267c:     [Version info resource found at 0x90! (ID/Name: 0x1; SubID/SubName: 0x409)]
+2728.267c:     [Raw version resource data: 0x1160b0 LB 0x3b0, codepage 0x0 (reserved 0x0)]
+2728.267c:     ProductName:     Microsoft® Windows® Operating System
+2728.267c:     ProductVersion:  6.1.7601.24335
+2728.267c:     FileVersion:     6.1.7601.24335 (win7sp1_ldr_escrow.181228-0954)
+2728.267c:     FileDescription: Windows NT BASE API Client DLL
+2728.267c: \SystemRoot\System32\KernelBase.dll:
+2728.267c:     CreationTime:    2019-01-09T21:39:09.807292600Z
+2728.267c:     LastWriteTime:   2018-12-28T19:59:40.818000000Z
+2728.267c:     ChangeTime:      2019-01-10T23:35:00.614104000Z
+2728.267c:     FileAttributes:  0x20
+2728.267c:     Size:            0x66800
+2728.267c:     NT Headers:      0xe8
+2728.267c:     Timestamp:       0x5c268157
+2728.267c:     Machine:         0x8664 - amd64
+2728.267c:     Timestamp:       0x5c268157
+2728.267c:     Image Version:   6.1
+2728.267c:     SizeOfImage:     0x6a000 (434176)
+2728.267c:     Resource Dir:    0x68000 LB 0x538
+2728.267c:     [Version info resource found at 0x90! (ID/Name: 0x1; SubID/SubName: 0x409)]
+2728.267c:     [Raw version resource data: 0x680b0 LB 0x3b8, codepage 0x0 (reserved 0x0)]
+2728.267c:     ProductName:     Microsoft® Windows® Operating System
+2728.267c:     ProductVersion:  6.1.7601.24335
+2728.267c:     FileVersion:     6.1.7601.24335 (win7sp1_ldr_escrow.181228-0954)
+2728.267c:     FileDescription: Windows NT BASE API Client DLL
+2728.267c: \SystemRoot\System32\apisetschema.dll:
+2728.267c:     CreationTime:    2019-01-09T21:39:06.129113800Z
+2728.267c:     LastWriteTime:   2018-12-28T19:59:08.311000000Z
+2728.267c:     ChangeTime:      2019-01-10T23:34:38.493265400Z
+2728.267c:     FileAttributes:  0x20
+2728.267c:     Size:            0x1c00
+2728.267c:     NT Headers:      0xc0
+2728.267c:     Timestamp:       0x5c2680d4
+2728.267c:     Machine:         0x8664 - amd64
+2728.267c:     Timestamp:       0x5c2680d4
+2728.267c:     Image Version:   6.1
+2728.267c:     SizeOfImage:     0x50000 (327680)
+2728.267c:     Resource Dir:    0x30000 LB 0x408
+2728.267c:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+2728.267c:     [Raw version resource data: 0x30060 LB 0x3a4, codepage 0x0 (reserved 0x0)]
+2728.267c:     ProductName:     Microsoft® Windows® Operating System
+2728.267c:     ProductVersion:  6.1.7601.24335
+2728.267c:     FileVersion:     6.1.7601.24335 (win7sp1_ldr_escrow.181228-0954)
+2728.267c:     FileDescription: ApiSet Schema DLL
+2728.267c: NtOpenDirectoryObject failed on \Driver: 0xc0000022
+2728.267c: supR3HardenedWinFindAdversaries: 0x0
+2728.267c: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox'
+2728.267c: Calling main()
+2728.267c: SUPR3HardenedMain: pszProgName=VirtualBox fFlags=0x2
+2728.267c: supR3HardenedWinInitAppBin(0x2): '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox'
+2728.267c: SUPR3HardenedMain: Respawn #1
+2728.267c: System32:  \Device\HarddiskVolume2\Windows\System32
+2728.267c: WinSxS:    \Device\HarddiskVolume2\Windows\winsxs
+2728.267c: KnownDllPath: C:\Windows\system32
+2728.267c: '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBox.exe' has no imports
+2728.267c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBox.exe)
+2728.267c: supR3HardNtEnableThreadCreation:
+2728.267c: supR3HardNtDisableThreadCreation: pvLdrInitThunk=0000000076d33710 pvNtTerminateThread=0000000076d59db0
+2728.267c: supR3HardenedWinDoReSpawn(1): New child 2034.2604 [kernel32].
+2728.267c: supR3HardNtChildGatherData: PebBaseAddress=000007fffffdc000 cbPeb=0x380
+2728.267c: supR3HardNtPuChFindNtdll: uNtDllParentAddr=0000000076cf0000 uNtDllChildAddr=0000000076cf0000
+2728.267c: supR3HardenedWinSetupChildInit: uLdrInitThunk=0000000076d33710
+2728.267c: supR3HardenedWinSetupChildInit: Start child.
+2728.267c: supR3HardNtChildWaitFor: Found expected request 0 (PurifyChildAndCloseHandles) after 0 ms.
+2728.267c: supR3HardNtChildPurify: Startup delay kludge #1/0: 260 ms, 27 sleeps
+2728.267c: supHardNtVpScanVirtualMemory: enmKind=CHILD_PURIFICATION
+2728.267c:  *0000000000000000-000000000000ffff 0x0001/0x0000 0x0000000
+2728.267c:  *0000000000010000-000000000002ffff 0x0004/0x0004 0x0020000
+2728.267c:  *0000000000030000-000000000012bfff 0x0000/0x0004 0x0020000
+2728.267c:   000000000012c000-000000000012dfff 0x0104/0x0004 0x0020000
+2728.267c:   000000000012e000-000000000012ffff 0x0004/0x0004 0x0020000
+2728.267c:  *0000000000130000-0000000000133fff 0x0002/0x0002 0x0040000
+2728.267c:   0000000000134000-000000000013ffff 0x0001/0x0000 0x0000000
+2728.267c:  *0000000000140000-0000000000140fff 0x0004/0x0004 0x0020000
+2728.267c:   0000000000141000-0000000076ceffff 0x0001/0x0000 0x0000000
+2728.267c:  *0000000076cf0000-0000000076cf0fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+2728.267c:   0000000076cf1000-0000000076e14fff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+2728.267c:   0000000076e15000-0000000076e1afff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+2728.267c:   0000000076e1b000-0000000076e1bfff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+2728.267c:   0000000076e1c000-0000000076e23fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+2728.267c:   0000000076e24000-0000000076e8efff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\ntdll.dll
+2728.267c:   0000000076e8f000-000000007efdffff 0x0001/0x0000 0x0000000
+2728.267c:  *000000007efe0000-000000007ffdffff 0x0000/0x0002 0x0020000
+2728.267c:  *000000007ffe0000-000000007ffe0fff 0x0002/0x0002 0x0020000
+2728.267c:   000000007ffe1000-000000007ffeffff 0x0000/0x0002 0x0020000
+2728.267c:   000000007fff0000-000000013f45ffff 0x0001/0x0000 0x0000000
+2728.267c:  *000000013f460000-000000013f460fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBox.exe
+2728.267c:   000000013f461000-000000013f4d1fff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBox.exe
+2728.267c:   000000013f4d2000-000000013f4d2fff 0x0080/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBox.exe
+2728.267c:   000000013f4d3000-000000013f518fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBox.exe
+2728.267c:   000000013f519000-000000013f519fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBox.exe
+2728.267c:   000000013f51a000-000000013f51afff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBox.exe
+2728.267c:   000000013f51b000-000000013f51ffff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBox.exe
+2728.267c:   000000013f520000-000000013f520fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBox.exe
+2728.267c:   000000013f521000-000000013f521fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBox.exe
+2728.267c:   000000013f522000-000000013f525fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBox.exe
+2728.267c:   000000013f526000-000000013f56dfff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBox.exe
+2728.267c:   000000013f56e000-000007fefefeffff 0x0001/0x0000 0x0000000
+2728.267c:  *000007fefeff0000-000007fefeff0fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume2\Windows\System32\apisetschema.dll
+2728.267c:   000007fefeff1000-000007fffffaffff 0x0001/0x0000 0x0000000
+2728.267c:  *000007fffffb0000-000007fffffd2fff 0x0002/0x0002 0x0040000
+2728.267c:   000007fffffd3000-000007fffffdbfff 0x0001/0x0000 0x0000000
+2728.267c:  *000007fffffdc000-000007fffffdcfff 0x0004/0x0004 0x0020000
+2728.267c:   000007fffffdd000-000007fffffddfff 0x0001/0x0000 0x0000000
+2728.267c:  *000007fffffde000-000007fffffdffff 0x0004/0x0004 0x0020000
+2728.267c:  *000007fffffe0000-000007fffffeffff 0x0001/0x0002 0x0020000
+2728.267c: apisetschema.dll: timestamp 0x5c2680d4 (rc=VINF_SUCCESS)
+2728.267c: VirtualBox.exe: timestamp 0x5be4900d (rc=VINF_SUCCESS)
+2728.267c: '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBox.exe' has no imports
+2728.267c: '\Device\HarddiskVolume2\Windows\System32\apisetschema.dll' has no imports
+2728.267c: '\Device\HarddiskVolume2\Windows\System32\ntdll.dll' has no imports
+2728.267c: supR3HardNtChildPurify: Done after 301 ms and 0 fixes (loop #0).
+2034.2604: Log file opened: 5.2.22r126460 g_hStartupLog=0000000000000004 g_uNtVerCombined=0x611db100
+2034.2604: supR3HardenedVmProcessInit: uNtDllAddr=0000000076cf0000 g_uNtVerCombined=0x611db100
+2034.2604: ntdll.dll: timestamp 0x5c268115 (rc=VINF_SUCCESS)
+2034.2604: New simple heap: #1 0000000000250000 LB 0x400000 (for 1699840 allocation)
+2728.267c: supR3HardNtEnableThreadCreation:
+2034.2604: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox'
+2034.2604: System32:  \Device\HarddiskVolume2\Windows\System32
+2034.2604: WinSxS:    \Device\HarddiskVolume2\Windows\winsxs
+2034.2604: KnownDllPath: C:\Windows\system32
+2034.2604: supR3HardenedVmProcessInit: Opening vboxdrv stub...
+2034.2604: Error opening VBoxDrvStub:  STATUS_NO_SUCH_DEVICE
+2034.2604: supR3HardenedWinReadErrorInfoDevice: NtCreateFile -> 0xc000000e
+2034.2604: Error -101 in supR3HardenedWinReSpawn! (enmWhat=3)
+2034.2604: NtCreateFile(\Device\VBoxDrvStub) failed: 0xc000000e STATUS_NO_SUCH_DEVICE (135 retries)
+
+Driver is probably stuck stopping/starting. Try 'sc.exe query vboxdrv' to get more information about its state. Rebooting may actually help.
+2728.267c: supR3HardenedWinCheckChild: enmRequest=2 rc=-101 enmWhat=3 supR3HardenedWinReSpawn: NtCreateFile(\Device\VBoxDrvStub) failed: 0xc000000e STATUS_NO_SUCH_DEVICE (135 retries)
+
+Driver is probably stuck stopping/starting. Try 'sc.exe query vboxdrv' to get more information about its state. Rebooting may actually help.
+2728.267c: Error -101 in supR3HardenedWinReSpawn! (enmWhat=3)
+2728.267c: NtCreateFile(\Device\VBoxDrvStub) failed: 0xc000000e STATUS_NO_SUCH_DEVICE (135 retries)
+
+Driver is probably stuck stopping/starting. Try 'sc.exe query vboxdrv' to get more information about its state. Rebooting may actually help.
